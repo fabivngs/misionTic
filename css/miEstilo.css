@@ -1,0 +1,80 @@
+body{
+margin: 0%;
+padding: 0%;
+}
+.heder{
+    background-color: rgb(40, 70, 53); 
+}
+.cuerpoCompleto{
+    width: 80%;
+    margin:auto;
+    background-color: rgba(75, 63, 63, 0.11);
+    border: rgb(5, 5, 5);
+    border: rgb(32, 33, 34);
+    max-width: 80%;
+}
+.menu{
+
+    background-color: rgb(45, 40, 70);
+}
+
+header{
+border-style: solid;
+border-width: 1px;
+border-color: greenyellow;
+}
+nav{
+    border-style: solid;
+    border-width: 1px;
+    border-color: greenyellow;
+    margin: 1%;
+}
+aside{
+    border-style: solid;
+    border-width: 1px;
+    border-color: greenyellow;
+    margin: 5%;
+    width: 40%;
+    padding-left: 25px;
+    padding-top: 15px;
+    margin-left: 25px;
+    margin-top: 5px;
+    margin-right: 25px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+
+}
+section{
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: greenyellow;
+    margin: 1%;
+}
+
+article{
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: greenyellow;
+    margin: 1%;
+    width: 55%;
+}
+
+footer{
+    background-color: rgb(45, 40, 70);
+    border-style: solid;
+    border-width: 1px;
+    border-color: greenyellow;
+    text-decoration-color: aliceblue;
+    text-justify: auto;
+    text-decoration-style: inherit;
+    margin: 1%;
+    
+}
+.pie{
+    color: lavender;
+
+}
+
